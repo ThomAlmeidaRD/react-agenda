@@ -1,0 +1,21 @@
+nav{
+    padding: 10px 30px;
+    box-shadow: 1px 3px 5px #b6b6b6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav img{
+    width: 35px;
+    margin-left: 10px;
+    height: 35px;
+    border-radius: 100px;
+    border: 1px solid #ff4f00;
+}

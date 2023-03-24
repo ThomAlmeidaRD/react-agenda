@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "name": "Lucas",
+        "img": "https://public.nftstatic.com/static/nft/webp/nft-cex/S3/1670713686756_nfefubukvpm80i3un338q7x8tvu6nwad_400x400.webp",
+        "number": "11 476134556",
+        "email": "lukas.paes18@gmail.com",
+        "cpf": "9831644456",
+        "date_born": "2000-02-05"
+    },
+    {
+        "id": 2,
+        "img": "https://public.nftstatic.com/static/nft/res/nft-cex/S3/1679002210803_nq42g0o10unbpuufajm88dnxxudzooq8.webp",
+        "name": " Henrique",
+        "number": "11 124562234",
+        "email": "henriquesantosss@gmail.com",
+        "cpf": "8782931939",
+        "date_born": "1998-12-09"
+    },
+    {
+        "id": 3,
+        "name": " Paula",
+        "img": "https://public.nftstatic.com/static/nft/webp/nft-cex/S3/1679067259965_m8o1hyc9j3r9fn5m2fbx6ry6fq2yuexl_400x400.webp",
+        "number": "11 989889889",
+        "email": "paula.souza@gmail.com",
+        "cpf": "8329378938",
+        "date_born": "2000-8-09"
+    },
+    {
+        "id": 4,
+        "name": " Henrique",
+        "img": "https://public.nftstatic.com/static/nft/webp/nft-cex/S3/1673542510048_rnzobicsk143sw7qd5r23durluwysz6w_400x400.webp",
+        "number": "11 9877613445",
+        "email": "lukas.paes18@gmail.com",
+        "cpf": "5508881999",
+        "date_born": "2000-12-09"
+    }
+]
