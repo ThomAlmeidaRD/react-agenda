@@ -12,4 +12,10 @@
  
  <p>Contudo, decido manter a qualidade na parte visual e da navegação que são outros pontos fortes e skills do Front-end, o app está responsivo e bem desenhado, com micro-interações fluídas entre as navegações</p>
  
- <p>Você também pode conferir o design do <a href="">figma</a> para ter uma prévia de como o app está</p>
+<h3>Screenshots</h3>
+
+<img src="shots-1.png">
+<img src="shots-2.png">
+<img src="shots-3.png">
+
+ <p>Você também pode conferir o design do <a href="https://www.figma.com/proto/f1sEdMFwtyDnJpF8sz6WES/Untitled?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">figma</a> para ter uma prévia de como o app está, mas eu super recomendo baixar e testar com o comando <b>npm run dev</b> do vite.</p>
